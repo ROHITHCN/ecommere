@@ -12,8 +12,8 @@ Before you begin, ensure you have the following installed:
 
 1. First, clone the repository:
 ```bash
-git clone [your-repository-url]
-cd [your-project-name]
+git clone https://github.com/ROHITHCN/ecommere.git
+cd fe_repo-main
 ```
 
 Install dependencies:
@@ -25,9 +25,11 @@ Start the development server:
 ```bash
 npm run dev
 ```
+```
 src/
 ├── components/     # React components
 ├── assets/        # Static assets (images, etc.)
 ├── App.jsx        # Main application component
 ├── main.jsx       # Entry point
 └── index.css      # Global styles
+```
